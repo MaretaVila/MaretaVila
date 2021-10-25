@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MaretaVila
+- 👀 I’m interested in new proyects and personal challenges
+- 🌱 I’m currently learning CSS & JavaScript.
+- 📫 How to reach me https://qubicks.com/index.php#quienessomos
