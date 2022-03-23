@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MaretaVila
 - 👀 I’m interested in new proyects and personal challenges in web design & development
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me https://qubicks.com/index.php#quienessomos
+- 📫 How to reach me https://marinavila.qubicks.com/
