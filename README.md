@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MaretaVila
 - 👀 I’m interested in new proyects and personal challenges in web design & development
 - 🌱 I learn everyday
-- 📫 How to reach me https://marinavila.qubicks.com/
+- 📫 How to reach me https://maretavila.github.io/portfolio/
